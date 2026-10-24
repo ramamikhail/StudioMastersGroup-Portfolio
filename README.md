@@ -19,15 +19,22 @@ Purpose
 
 Areas of Work
 
-Area	Focus
-Publishing & Storytelling	Original writing, editorial development, worldbuilding, and publishing projects
-Design & Creative Direction	Brand identity, visual communication, and creative production
-Software & Digital Systems	Applications, workflow tools, and supporting software
-Games & Interactive Media	Game development, interactive experiences, and production studies
-Fabrication & Prototyping	3D modeling, digital fabrication, and physical product exploration
+Publishing & Storytelling
+Original writing, editorial development, worldbuilding, and publishing projects.
 
-These areas reflect the organization’s working scope. Individual project entries identify what has been completed, what is in development, and what remains exploratory.
+Design & Creative Direction
+Brand identity, visual communication, and creative production.
 
+Software & Digital Systems
+Applications, workflow tools, and supporting software.
+
+Games & Interactive Media
+Game development, interactive experiences, and production studies.
+
+Fabrication & Prototyping
+3D modeling, digital fabrication, and physical product exploration.
+
+Individual project entries distinguish completed work, active development, and exploration.
 ⸻
 
 Portfolio Contents
